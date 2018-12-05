@@ -1,7 +1,7 @@
 {
   "main.css": "/julebanko/static/css/main.2be3a40a.chunk.css",
-  "main.js": "/julebanko/static/js/main.719bf6b5.chunk.js",
-  "main.js.map": "/julebanko/static/js/main.719bf6b5.chunk.js.map",
+  "main.js": "/julebanko/static/js/main.23ff1e0b.chunk.js",
+  "main.js.map": "/julebanko/static/js/main.23ff1e0b.chunk.js.map",
   "static/js/1.167a9a9c.chunk.js": "/julebanko/static/js/1.167a9a9c.chunk.js",
   "static/js/1.167a9a9c.chunk.js.map": "/julebanko/static/js/1.167a9a9c.chunk.js.map",
   "runtime~main.js": "/julebanko/static/js/runtime~main.3aa91969.js",
@@ -9,7 +9,7 @@
   "static/media/jb5.mp3": "/julebanko/static/media/jb5.e061d0c1.mp3",
   "static/media/sleigh.svg": "/julebanko/static/media/sleigh.a1326e45.svg",
   "static/media/snow.svg": "/julebanko/static/media/snow.14206736.svg",
-  "static/media/glitter.mp3": "/julebanko/static/media/glitter.82575e8b.mp3",
+  "static/media/glitter.mp3": "/julebanko/static/media/glitter.f8664527.mp3",
   "static/media/1.mp3": "/julebanko/static/media/1.4c11b907.mp3",
   "static/media/2.mp3": "/julebanko/static/media/2.c8407256.mp3",
   "static/media/3.mp3": "/julebanko/static/media/3.51d2d182.mp3",
@@ -27,6 +27,6 @@
   "static/media/jb8.mp3": "/julebanko/static/media/jb8.ccf30ec9.mp3",
   "static/css/main.2be3a40a.chunk.css.map": "/julebanko/static/css/main.2be3a40a.chunk.css.map",
   "index.html": "/julebanko/index.html",
-  "precache-manifest.0f6f368d893c66a6a4e07c8e989cabd7.js": "/julebanko/precache-manifest.0f6f368d893c66a6a4e07c8e989cabd7.js",
+  "precache-manifest.0610ca93afc7e81811745ecac1b960c9.js": "/julebanko/precache-manifest.0610ca93afc7e81811745ecac1b960c9.js",
   "service-worker.js": "/julebanko/service-worker.js"
 }

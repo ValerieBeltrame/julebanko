@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/julebanko/static/media/5.840533a2.mp3"
   },
   {
-    "revision": "719bf6b5836d0d12ca8a",
+    "revision": "23ff1e0b1a373bd2af9f",
     "url": "/julebanko/static/css/main.2be3a40a.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/julebanko/static/media/snow.14206736.svg"
   },
   {
-    "revision": "82575e8b47e8661081459fa69515481e",
-    "url": "/julebanko/static/media/glitter.82575e8b.mp3"
+    "revision": "f866452701030b5c025c73d42d95dfa6",
+    "url": "/julebanko/static/media/glitter.f8664527.mp3"
   },
   {
     "revision": "4c11b907a98a4cc53ce1e9842b940440",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/julebanko/static/media/4.4a1321e5.mp3"
   },
   {
-    "revision": "719bf6b5836d0d12ca8a",
-    "url": "/julebanko/static/js/main.719bf6b5.chunk.js"
+    "revision": "23ff1e0b1a373bd2af9f",
+    "url": "/julebanko/static/js/main.23ff1e0b.chunk.js"
   },
   {
     "revision": "307c23c562d8feca0c3fdbd6deea81f4",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/julebanko/static/media/jb8.ccf30ec9.mp3"
   },
   {
-    "revision": "cb545633c2518b2eb559ac00c8325770",
+    "revision": "4ac2b7f83ae80d79b02cc5e0dcafefa7",
     "url": "/julebanko/index.html"
   }
 ];
